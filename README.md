@@ -1,2 +1,2 @@
 # gowes
-SDK Golang
+Internal Mataharibiz SDK Collection - Golang
